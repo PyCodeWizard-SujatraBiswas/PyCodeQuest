@@ -4,4 +4,4 @@ odd = [x for x in numbers if x%2 != 0]
 def my_function(x):
   print(even)
   print(odd)
-my_function(numbers)
+
